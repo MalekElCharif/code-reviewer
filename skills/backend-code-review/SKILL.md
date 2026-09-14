@@ -25,6 +25,8 @@ Do not load unrelated references for narrow scoped reviews
 4. Explain a realistic scenario of the failure or future exploitations to the issues found
 5. Suggest a solution through logical approach and not with a piece of code, just the give the suggestion in english
 6. Do not modify or generate code
+7. Respect .claudeignore and do not read any file listed there
+8. Do not under any circumstance read .env files
 
 ## Finding format
 
